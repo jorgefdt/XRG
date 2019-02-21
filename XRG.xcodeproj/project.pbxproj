@@ -373,10 +373,10 @@
 			attributes = {
 				CLASSPREFIX = XRG;
 				LastUpgradeCheck = 1010;
-				ORGANIZATIONNAME = "Gaucho Software";
+				ORGANIZATIONNAME = "9 Bits";
 				TargetAttributes = {
 					273ECE6415740DE700E65D82 = {
-						DevelopmentTeam = 28EXY66HMA;
+						DevelopmentTeam = QB7BHSC74Z;
 						SystemCapabilities = {
 							com.apple.HardenedRuntime = {
 								enabled = 1;
@@ -561,14 +561,14 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 28EXY66HMA;
+				DEVELOPMENT_TEAM = QB7BHSC74Z;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Other Sources/XRG-Prefix.pch";
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "XRG-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.piatekjimenez.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ninebits.XRG;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -580,14 +580,14 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 28EXY66HMA;
+				DEVELOPMENT_TEAM = QB7BHSC74Z;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Other Sources/XRG-Prefix.pch";
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "XRG-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.piatekjimenez.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ninebits.XRG;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
